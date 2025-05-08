@@ -7,7 +7,8 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 - General Flutter Fundamentals Repo: https://github.com/PeterKassenaar/flutter-fundamentals
 
 ## From series 2
-- ...
+- ![Package vs Library](./img/compiled.png)
+- ![Natively Compiled vs Hybrid Compiled code](./img/natively-compiled.png)
 
 ## From series 1
 
