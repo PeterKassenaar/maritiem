@@ -5,6 +5,10 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 ## Links
 
 - General Flutter Fundamentals Repo: https://github.com/PeterKassenaar/flutter-fundamentals
+## From series 3
+
+- ...
+- 
 
 ## From series 2
 - ![Package vs Library](./img/compiled.png)
