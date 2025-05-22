@@ -7,7 +7,7 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 - General Flutter Fundamentals Repo: https://github.com/PeterKassenaar/flutter-fundamentals
 ## From series 3
 
-- ...
+- Slides with recap on day #1 available - extra: using `const`; using `final` vs `const`, on keywords `private`, `public` and `protected`.
 - 
 
 ## From series 2
