@@ -5,16 +5,21 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 ## Links
 
 - General Flutter Fundamentals Repo: https://github.com/PeterKassenaar/flutter-fundamentals
-## From series 3
+
+## From series 3 (17 - 19 September 2025)
+
+- ...
+
+
+## From series 3 (21 - 23 May 2025)
 
 - Slides with recap on day #1 available - extra: using `const`; using `final` vs `const`, on keywords `private`, `public` and `protected`.
-- 
 
-## From series 2
+## From series 2 (7 - 9 May 2025)
 - ![Package vs Library](./img/compiled.png)
 - ![Natively Compiled vs Hybrid Compiled code](./img/natively-compiled.png)
 
-## From series 1
+## From series 1 (2 - 4 April 2025)
 
 - Dart Extension Methods: https://dart.dev/language/extension-methods
     - Extension methods allow you to literally 'Extend' existing classes with new functionality. See page above and
