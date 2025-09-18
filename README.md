@@ -9,7 +9,7 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 ## From series 3 (17 - 19 September 2025)
 
 - When experiencing 'Handshake failed' errors, while talking to an API, try the solution on this page: https://stackoverflow.com/questions/54285172/how-to-solve-flutter-certificate-verify-failed-error-while-performing-a-post-req/61312927#61312927. 
-  - (updated `main.dart`) with the given code, your request should now work.
+  - (update `main.dart` with the given code, your request should now work).
 
 
 ## From series 3 (21 - 23 May 2025)
