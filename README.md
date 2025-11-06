@@ -7,7 +7,8 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 - General Flutter Fundamentals Repo: https://github.com/PeterKassenaar/flutter-fundamentals
 
 ## From series 5 (5-7 November 2025)
-- ...
+- Background on the Spread operator (`...`). Note: this is ONE operator, consisting of three dots. https://www.geeksforgeeks.org/dart/dart-spread-operator/
+- 
 
 ## From series 4 (17 - 19 September 2025)
 
