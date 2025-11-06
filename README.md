@@ -9,9 +9,8 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 ## From series 5 (5-7 November 2025)
 - Background on the Spread operator (`...`). Note: this is ONE operator, consisting of three dots. https://www.geeksforgeeks.org/dart/dart-spread-operator/
 - Blog article `The power of the 'late' keyword`: https://thiele.dev/blog/the-power-of-late-keyword-in-dart/
-- 
-
-
+- More on different types of Dart constructors (including examples): https://dart.dev/language/constructors
+-
 
 ## From series 4 (17 - 19 September 2025)
 
