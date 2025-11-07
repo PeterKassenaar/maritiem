@@ -8,6 +8,7 @@ Slides and sample code on the training Flutter Fundamentals, Maritieme IT, 2025
 
 ## From series 5 (5-7 November 2025)
 - Background on the Spread operator (`...`). Note: this is ONE operator, consisting of three dots. https://www.geeksforgeeks.org/dart/dart-spread-operator/
+- Background on the Cascade operator (`..`). Note: this is ONE operator, consisting of two dots. https://dart.dev/language/operators#cascade-notation
 - Blog article `The power of the 'late' keyword`: https://thiele.dev/blog/the-power-of-late-keyword-in-dart/
 - More on different types of Dart constructors (including examples): https://dart.dev/language/constructors
 - Which elements need to be disposed? A blog article on common Flutter mistakes: https://dcm.dev/blog/2025/03/24/fifteen-common-mistakes-flutter-dart-development/
